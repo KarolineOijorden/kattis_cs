@@ -3,3 +3,13 @@ C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.Gener
 C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.AssemblyInfoInputs.cache
 C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.AssemblyInfo.cs
 C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\bin\Debug\net6.0\kattis_cs.exe
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\bin\Debug\net6.0\kattis_cs.deps.json
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\bin\Debug\net6.0\kattis_cs.runtimeconfig.json
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\bin\Debug\net6.0\kattis_cs.dll
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\bin\Debug\net6.0\ref\kattis_cs.dll
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\bin\Debug\net6.0\kattis_cs.pdb
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.dll
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\ref\kattis_cs.dll
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.pdb
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.genruntimeconfig.cache
