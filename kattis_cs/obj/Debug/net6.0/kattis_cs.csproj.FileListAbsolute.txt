@@ -1,0 +1,5 @@
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.csproj.AssemblyReference.cache
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.AssemblyInfo.cs
+C:\Users\karol\source\repos\kattis_cs\kattis_cs\obj\Debug\net6.0\kattis_cs.csproj.CoreCompileInputs.cache
