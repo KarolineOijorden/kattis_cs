@@ -8,15 +8,20 @@ namespace kattis_cs
 {
     class Numberfun
     {
-        static void Main(string [] args)
+        static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
-                double[] numbers = Array.ConvertAll(Console.ReadLine().Split(), s => double.Parse(s));
-                if (numbers[0] + numbers[1] == numbers[2] || numbers[0] - numbers[1] == numbers[2]
-                    || numbers[1] - numbers[0] == numbers[2] || numbers[0] * numbers[1] == numbers[2]
-                    || numbers[0] / numbers[1] == numbers[2] || numbers[1] / numbers[0] == numbers[2])
+                int[] numbers = Array.ConvertAll(Console.ReadLine().Split(), s => int.Parse(s));
+                int number1 = numbers[0];
+                int number2 = numbers[1];
+                int number3 = numbers[2];
+                double n1 = Convert.ToDouble(number1);
+                double n2 = Convert.ToDouble(number2);
+                if (number1 + number2 == number3 || number1 - number2 == number3
+                    || number2 - number1 == number3 || number1 * number2 == number3
+                    || n1 / n2 == number3 || n2 / n1 == number3)
                 {
                     Console.WriteLine("Possible");
                 }
