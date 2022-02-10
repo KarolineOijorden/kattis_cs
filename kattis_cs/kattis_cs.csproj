@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>kattis_cs.Numberfun</StartupObject>
+    <StartupObject>kattis_cs.sumkindofproblem</StartupObject>
   </PropertyGroup>
 
 </Project>
