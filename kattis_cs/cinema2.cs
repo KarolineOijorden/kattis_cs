@@ -25,7 +25,8 @@ namespace kattis_cs
                 }
                 else
                 {
-                    result++;
+                    result = groups - i;
+                    break;
                 }
             }
             Console.WriteLine(result);
