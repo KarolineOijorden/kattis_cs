@@ -33,4 +33,3 @@ namespace kattis_cs
         }
     }
 }
-}
