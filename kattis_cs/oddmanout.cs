@@ -11,12 +11,21 @@ namespace kattis_cs
         static void Main(string [] args)
         {
             int n = int.Parse(Console.ReadLine());
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 int g = int.Parse(Console.ReadLine());
                 string [] guests = Console.ReadLine().Split();
-               // string [] guests.Distinct().ToArray();
-               // guests.
+                HashSet<String> distinctGuests = new HashSet<String>();
+
+                for (int j = 0; j < g; j++)
+                {
+                    if (!distinctGuests.Remove(guests[j]))
+                    {
+                        distinctGuests.Add(guests[j]);
+                    }
+                }
+                distinctGuests.CopyTo(guests);
+                Console.WriteLine("Case #{0}: {1}", i, guests[0]);
             }
         }
     }
