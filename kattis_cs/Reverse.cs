@@ -11,12 +11,15 @@ namespace kattis_cs
         static void Main(String[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            StringBuilder sb = new StringBuilder();
-            for (int i = n-1; i >= 0; i--)
+            Stack<String> numbers = new Stack<String>();
+            for (int i = 0; i < n; i++)
             {
-                sb.Insert(0, Console.ReadLine() + "\n");
+                numbers.Push(Console.ReadLine());
             }
-            Console.WriteLine(sb);
+            foreach (string i in numbers)
+            {
+                Console.WriteLine(i);
+            }
         }
-    } 
+    }
 }
