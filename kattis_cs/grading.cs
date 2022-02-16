@@ -42,5 +42,3 @@ namespace kattis_cs
         }
     }
 }
-
-rss feed f
